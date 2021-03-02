@@ -29,10 +29,6 @@
 #services{
  flex-direction: column;
 }
-#services .box{
-
-
-}
 /* Clients */
 #clients{
  flex-wrap: wrap;
