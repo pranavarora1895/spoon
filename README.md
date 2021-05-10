@@ -2,7 +2,7 @@
 
 > ### You can view the website [here.](https://pranavarora1895.github.io/spoon/)
 
-Fully Responsive website with the help of HTML and CSS. No CSS Framework Used.
+**Fully Responsive food delivery website with the help of HTML and CSS. No CSS Framework Used.**
 
 * Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
 * Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
